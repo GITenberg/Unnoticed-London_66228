@@ -1,11 +1,16 @@
 _repo: Unnoticed-London_66228
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66228-h/images/cover.jpg
 creator:
   author:
     agent_name: Montizambert, Elizabeth (E.)
     gutenberg_agent_id: '53696'
     url: http://www.gutenberg.org/2009/agents/53696
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66228#Unnoticed-London
 gutenberg_issued: '2021-09-06'
 identifiers:
   gutenberg: '66228'
